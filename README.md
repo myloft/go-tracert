@@ -25,6 +25,7 @@ go build
 sudo ./tracert
 ```
 ### 路由追踪
+![tracert](img/tracert.png)
 #### 默认
 ```
 sudo ./tracert www.cloudflare.com
