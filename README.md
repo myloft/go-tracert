@@ -1,5 +1,5 @@
 # go-tracert
-使用 golang 实现的 Tracert 工具
+课程项目使用 golang 实现的 Tracert 工具
 
 ## 说明
 主要功能
@@ -25,7 +25,6 @@ go build
 sudo ./tracert
 ```
 ### 路由追踪
-![tracert](img/tracert.png)
 #### 默认
 ```
 sudo ./tracert www.cloudflare.com
@@ -42,3 +41,4 @@ sudo ./tracert -6 www.cloudflare.com
 ```
 sudo ./tracert -h 10 www.cloudflare.com
 ```
+![tracert](img/tracert.png)
