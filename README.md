@@ -1,5 +1,5 @@
 # go-tracert
-计算机网路课程项目：基于 ICMP 使用 Golang 实现的 Tracert 应用。
+计算机网络课程项目：基于 ICMP 使用 Golang 实现的 Tracert 应用。
 
 ## 说明
 ### 主要功能
